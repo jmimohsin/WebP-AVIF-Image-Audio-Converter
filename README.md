@@ -23,10 +23,6 @@
 
 WebP/AVIF Image & Audio Converter makes it easy to work with modern image formats and audio media while browsing. Find images and audio files on any website, download supported media, convert images into popular formats, and open files directly in free Coders Hub online tools.
 
-Available for Google Chrome and Microsoft Edge.
-
-## ✨ Features
-
 ### 🖼️ Image Detection & Download
 - Automatically find images on the current webpage.
 - Detect WebP, AVIF, SVG, and other large images.
@@ -83,16 +79,6 @@ Explore more tools at [Coders Hub](https://coders-hub.com/).
 |---|---|
 | Google Chrome | Available |
 | Microsoft Edge | Available |
-
-## 📥 Installation
-
-**Google Chrome**
-
-[Install from Chrome Web Store](https://chromewebstore.google.com/detail/webpavif-image-audio-conv/aljcnjafllpjgcjginmbbpjdofhkckbe)
-
-**Microsoft Edge**
-
-[Install from Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/webpavif-image-audio-c/jnfbceaeihailjbhplhjgghlicmldgmp)
 
 ## 🔒 Privacy & Security
 
