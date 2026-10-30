@@ -55,11 +55,11 @@ Right-click on an image or audio file to access useful actions without opening t
 Open selected media directly in free Coders Hub online tools.
 
 Available tools include:
-- Image Compressor
-- Image OCR
-- Watermark Remover
-- Audio Trimmer
-- Audio Converter
+- [Image Compressor](https://coders-hub.com/tools/images/image-compressor)
+- [Image OCR](https://coders-hub.com/tools/images/image-to-text)
+- [Watermark Remover](https://coders-hub.com/tools/images/watermark-remover)
+- [Audio Trimmer](https://coders-hub.com/tools/video/audio-trimmer-cutter)
+- [Audio Converter](https://coders-hub.com/tools/video/audio-converter)
 
 Explore more tools at [Coders Hub](https://coders-hub.com/).
 
