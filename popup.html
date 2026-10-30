@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <header>
+    <img src="icon.png" alt="" width="22" height="22" />
+    <h1>WebP/AVIF Image &amp; Audio Converter</h1>
+    <a href="#" data-open="support" class="support" title="Help &amp; support">Support</a>
+  </header>
+  <nav class="tabs">
+    <button data-tab="images" class="active">Images <span id="imgCount">0</span></button>
+    <button data-tab="audio">Audio <span id="audCount">0</span></button>
+  </nav>
+  <section id="images">
+    <div class="filters">
+      <button data-filter="all" class="chip active">All</button>
+      <button data-filter="webp" class="chip">WebP</button>
+      <button data-filter="avif" class="chip">AVIF</button>
+      <button data-filter="svg" class="chip">SVG</button>
+      <button data-filter="large" class="chip">Large</button>
+    </div>
+    <div class="bulk">
+      <button id="allPng" class="primary">Save shown as PNG</button>
+      <button id="allJpg">Save shown as JPG</button>
+    </div>
+    <ul id="imgList" class="grid"></ul>
+  </section>
+  <section id="audio" hidden>
+    <ul id="audList" class="list"></ul>
+  </section>
+  <p id="status" class="status"></p>
+  <footer>
+    <a href="#" data-open="compress">Compressor</a>
+    <a href="#" data-open="webp">WebP→JPG/PNG</a>
+    <a href="#" data-open="ocr">Image OCR</a>
+    <a href="#" data-open="trim">Audio Trimmer</a>
+    <a href="#" data-open="support">Support</a>
+  </footer>
+  <script src="popup.js"></script>
+</body>
+</html>
